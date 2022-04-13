@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ifeoluwaayo
 - 👀 I’m interested in collaborations
 - 🌱 I’m currently learning React (JS/NATIVE)
+- 🚀 Web3.5 developer
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me @adeayomide112@gmail.com
 
