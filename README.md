@@ -6,6 +6,30 @@
 - 🚀 Web3.5 developer
 - 💞️ I’m looking to collaborate on real world projects
 - 📫 How to reach me @adeayomide112@gmail.com
+<br>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifeoluwaayo&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifeoluwaayo&repo=Instagram-clone)](https://github.com/ifeoluwaayo/instagram-clone)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ifeoluwaayo&repo=Phaser-game-web3)](https://github.com/ifeoluwaayo/phaser-game-web3) -->
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeoluwaayo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ifeoluwaayo&show_icons=true&line_height=27&count_private=true                 &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" 
+       alt="Ife's GitHub Stats" />
+</a>
+
+<!-- <a href="https://github.com/ifeoluwaayo/instagram-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifeoluwaayo&repo=https://github.com/ifeoluwaayo/instagram-clone/>
+</a>
+
+
+<a href="https://github.com/ifeoluwaayo/phaser-game-web3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ifeoluwaayo&repo=https://github.com/ifeoluwaayo/phaser-game-web3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> -->
 
 <!---
 ifeoluwaayo/ifeoluwaayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
